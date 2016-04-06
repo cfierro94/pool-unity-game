@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Controller.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Controller.cs" Line="222" Column="3" />
+      <File FileName="Assets\Scripts\Bar2D.cs" Line="43" Column="11" />
+      <File FileName="Assets\Scripts\ChangeScene.cs" Line="7" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
